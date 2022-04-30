@@ -1,11 +1,7 @@
 - 👋 Hi, I’m Humberto
 - 👀 I’m interested in  
-  - Recommender Systems 
-  - Search Systems 
-  - Education 
-  - Diversity & Inclusion 
-  - Community Building
-- 📫 You can reach via issues
+  - Recommender and Search Systems, Community Building, Diversity & Inclusion 
+ - 📫 You can reach on twitter @totopampin 
 
 <!---
 hcorona/hcorona is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
