@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Humberto
-- 👀 I’m interested in  
-  - Recommender and Search Systems, Community Building, Diversity & Inclusion 
+- 👀 I’m interested in Recommender and Search Systems, Community Building, Diversity & Inclusion 
  - 📫 You can reach on twitter @totopampin 
 
 <!---
